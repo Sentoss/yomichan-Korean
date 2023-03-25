@@ -1,20 +1,10 @@
-# krdict-yomichan
+# Korean [Yomichan](https://github.com/FooSoft/yomichan) dictionaries
 
-A Korean dictionary for [Yomichan](https://github.com/FooSoft/yomichan).
+I forked the krdict for yomichan repository in order to include it and add other dictionaries.
 
-Dictionary includes: Words, Phrases and Grammar/Expressions
+What I did was use Pyglossary to change Korean Stardict dictionaries (quick kr-en, quick en-kr, kr-kr dictionaries) to become yomichan dictionaries in order to boost yomichan's functionality/support for Korean.
 
-If you see an error in conjugation or a missing verb stem, please submit an issue in this format:
+Yomichan overpowers Stardict with its Anki cards creation support, so I said "why not increase its support for Korean?"
 
--Verb:
-
--Dictionary form:
-
--Definition:
-
--Issue:
-
-If you have a long list, it would help me out if you post a text/excel/google sheets file of the words you want fixed.
-
-------------------------------
-All entries came from [National Institute of Korean Language's Korean-English Learners' Dictionary](https://krdict.korean.go.kr/). Copyright of all materials on this website belongs to the copyright owners. Essentially, all materials on this website are distributed and can be used according to the Creative Commons Attribution - Share Alike License. This means that anyone can use the materials for all purposes, including commercial use. 
+-------------------------------------------------------------------------------------------------------------------------
+Copyright of all materials on this website belongs to the copyright owners. Essentially, all materials on this website are distributed and can be used according to the Creative Commons Attribution - Share Alike License. This means that anyone can use the materials for all purposes, including commercial use. 
